@@ -10,5 +10,6 @@ public class Controller {
     public String hello(){
         return "hello from master2";
 
+
     }
 }
