@@ -8,8 +8,8 @@ public class Controller {
 
     @GetMapping
     public String hello(){
-        String master = "hello from master";
-        return master;
+        String hello =  "hello from feature2";
+        return hello;
 
 
     }
