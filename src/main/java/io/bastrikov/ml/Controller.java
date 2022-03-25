@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping
     public String hello(){
-        return "hello";
+        return "hello from feature one";
 
     }
 }
